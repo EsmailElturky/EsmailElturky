@@ -1,6 +1,6 @@
 # Esmail Elturky Profile
 
-![Profile Banner]([https://example.com/path/to/banner.png](https://www.datocms-assets.com/45470/1631795624-logo-django.png?fm=webp))
+![Profile Banner]([[https://www.datocms-assets.com/45470/1631795624-logo-django.png?fm=webp]])
 
 ## About Me
 Welcome to my GitHub profile! I am a professional full-stack developer with 2 years of experience, specializing in the Django and Angular stack. I have a strong background in web development, utilizing the power of these frameworks to create robust and scalable applications. With expertise in Git, Domain-Driven Design (DDD), and Django Rest Framework (DRF), I am confident in my ability to deliver high-quality solutions.
