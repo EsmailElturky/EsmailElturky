@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a professional full-stack developer with 2 ye
 ## Contact Me
 Feel free to reach out to me for any professional inquiries or collaborations:
 
-- Email: [en.esmailelturky.com](mailto:your-email@example.com)
+- Email: [en.esmailelturky@gmail.com](mailto:your-email@example.com)
 
 Let's connect and create amazing things together!
 
